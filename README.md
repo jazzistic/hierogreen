@@ -1,6 +1,6 @@
 <p align="center"><img width="524" height="323" alt="i spent like 5 hours on this Oh my god" src="https://i.imgur.com/axTNtJE.png"/></p>
 
-<p align="center">${{\color{#ba964d}{\textsf{𓈒⠀—⠀—⠀—⠀—⠀—⠀—⠀—⠀—⠀—⠀—⠀—⠀—⠀—⠀—⠀—⠀𓈒\ }}}}$
+<p align="center"> 𓈒⠀—⠀—⠀—⠀—⠀—⠀—⠀—⠀—⠀—⠀—⠀—⠀—⠀—⠀—⠀—⠀𓈒
 <div align="center">
   <a href="https://jazzist.carrd.co/#">carrd</a> ⠀⠀★⠀⠀
   <a href="https://genesistic.atabook.org/">ata</a>
